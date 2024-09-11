@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Daniyaal Hussain
 
-# Your Github username
+# Lutumna
